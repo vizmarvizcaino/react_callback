@@ -1,0 +1,23 @@
+.App{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: aqua;
+  gap: 30px;
+}
+
+.container-cards {
+  border: 1px solid blue;
+  border-radius: 15px;
+  width: 30vw;
+  height: 25vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+
+}
